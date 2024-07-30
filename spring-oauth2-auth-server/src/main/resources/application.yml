@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-oauth2-authorization-server
+server:
+  port: 9000
+
+logging:
+  level:
+    ROOT: TRACE
